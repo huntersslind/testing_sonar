@@ -30,8 +30,10 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: VSTest@2
-  displayName: 'DotNet - Test'
+- task: Bash@3
   inputs:
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+    targetType: 'inline'
+    script: |
+      dotnet test
+
+    workingDirectory: './SonarCloudSpike'
