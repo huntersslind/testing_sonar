@@ -30,10 +30,7 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: Bash@3
+- task: DotNetCoreCLI@2
   inputs:
-    targetType: 'inline'
-    script: |
-      dotnet test
-
-    workingDirectory: './SonarCloudSpike'
+    command: 'test'
+    projects: './SonarCloudSpike'
