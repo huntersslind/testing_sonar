@@ -31,5 +31,5 @@ steps:
 - task: VSTest@2
   displayName: 'DotNet - Test'
   inputs:
-    platform: '$(buildPlatform)'
+    platform: '$(buildPlatform)/SonarCloudSpike'
     configuration: '$(buildConfiguration)'
