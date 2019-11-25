@@ -34,6 +34,8 @@ namespace spike.codebase
             {
                 return "6";
             }
+
+            return "7";
         }
     }
 }
