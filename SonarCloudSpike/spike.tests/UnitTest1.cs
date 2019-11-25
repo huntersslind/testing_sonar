@@ -12,7 +12,7 @@ namespace spike.tests
         [Test]
         public void Test1()
         {
-            Assert.Equals(true, false);
+            Assert.AreEqual(true, false);
         }
     }
 }

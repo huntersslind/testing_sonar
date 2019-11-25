@@ -14,7 +14,7 @@
         "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hunter.s.lind/.config/NuGet/NuGet.Config"
+          "/Users/hunter.s.lind/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -58,7 +58,13 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
