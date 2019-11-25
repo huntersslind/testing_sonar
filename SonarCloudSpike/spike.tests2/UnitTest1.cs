@@ -1,4 +1,3 @@
-using System;
 using Xunit;
 
 namespace spike.tests2
@@ -8,7 +7,7 @@ namespace spike.tests2
         [Fact]
         public void Test1()
         {
-            Assert.True(false);
+            Assert.True(true);
         }
     }
 }
