@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/spike.tests.csproj": {}
+    "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/spike.tests2.csproj": {}
   },
   "projects": {
-    "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/spike.tests.csproj": {
+    "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/spike.tests2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/spike.tests.csproj",
-        "projectName": "spike.tests",
-        "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/spike.tests.csproj",
+        "projectUniqueName": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/spike.tests2.csproj",
+        "projectName": "spike.tests2",
+        "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/spike.tests2.csproj",
         "packagesPath": "/Users/hunter.s.lind/.nuget/packages/",
-        "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/obj/",
+        "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/hunter.s.lind/.config/NuGet/NuGet.Config"
@@ -40,17 +40,17 @@
               "target": "Package",
               "version": "[16.2.0, )"
             },
-            "NUnit3TestAdapter": {
+            "coverlet.collector": {
               "target": "Package",
-              "version": "[3.13.0, )"
-            },
-            "nunit": {
-              "target": "Package",
-              "version": "[3.12.0, )"
+              "version": "[1.0.1, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.4.1, )"
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
             }
           },
           "imports": [

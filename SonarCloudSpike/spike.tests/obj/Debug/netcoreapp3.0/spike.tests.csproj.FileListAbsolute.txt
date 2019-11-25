@@ -90,3 +90,7 @@
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/obj/Debug/netcoreapp3.0/spike.tests.csproj.CopyComplete
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/obj/Debug/netcoreapp3.0/spike.tests.dll
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/obj/Debug/netcoreapp3.0/spike.tests.pdb
+/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/bin/Debug/netcoreapp3.0/xunit.abstractions.dll
+/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/bin/Debug/netcoreapp3.0/xunit.assert.dll
+/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/bin/Debug/netcoreapp3.0/xunit.core.dll
+/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/bin/Debug/netcoreapp3.0/xunit.execution.dotnet.dll

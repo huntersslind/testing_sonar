@@ -1,18 +1,18 @@
-using NUnit.Framework;
+using Xunit;
 
 namespace spike.tests
 {
     public class Tests
     {
-        [SetUp]
+        [Fact]
         public void Setup()
         {
         }
 
-        [Test]
+        [Fact]
         public void Test1()
         {
-            Assert.AreEqual(true, false);
+            Assert.True(false);
         }
     }
 }

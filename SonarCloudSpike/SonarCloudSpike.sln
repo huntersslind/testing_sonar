@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spike.codebase", "spike.codebase\spike.codebase.csproj", "{A8B9B322-796F-44B7-9431-3081C8AD9F1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spike.tests", "spike.tests\spike.tests.csproj", "{8BB09C0F-EBB0-4EAA-9CC8-5CD270B199F3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "spike.tests2", "spike.tests2\spike.tests2.csproj", "{8E7D51EC-28E9-46A0-A2E2-10A8695324A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{A8B9B322-796F-44B7-9431-3081C8AD9F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8B9B322-796F-44B7-9431-3081C8AD9F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8B9B322-796F-44B7-9431-3081C8AD9F1F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8BB09C0F-EBB0-4EAA-9CC8-5CD270B199F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8BB09C0F-EBB0-4EAA-9CC8-5CD270B199F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8BB09C0F-EBB0-4EAA-9CC8-5CD270B199F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8BB09C0F-EBB0-4EAA-9CC8-5CD270B199F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E7D51EC-28E9-46A0-A2E2-10A8695324A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E7D51EC-28E9-46A0-A2E2-10A8695324A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E7D51EC-28E9-46A0-A2E2-10A8695324A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E7D51EC-28E9-46A0-A2E2-10A8695324A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

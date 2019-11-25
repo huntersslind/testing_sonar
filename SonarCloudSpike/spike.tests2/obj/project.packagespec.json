@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/spike.tests.csproj",
-    "projectName": "spike.tests",
-    "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/spike.tests.csproj",
-    "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests/obj/",
+    "projectUniqueName": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/spike.tests2.csproj",
+    "projectName": "spike.tests2",
+    "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/spike.tests2.csproj",
+    "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -30,17 +30,17 @@
           "target": "Package",
           "version": "[16.2.0, )"
         },
-        "NUnit3TestAdapter": {
+        "coverlet.collector": {
           "target": "Package",
-          "version": "[3.13.0, )"
-        },
-        "nunit": {
-          "target": "Package",
-          "version": "[3.12.0, )"
+          "version": "[1.0.1, )"
         },
         "xunit": {
           "target": "Package",
-          "version": "[2.4.1, )"
+          "version": "[2.4.0, )"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "[2.4.0, )"
         }
       },
       "imports": [
