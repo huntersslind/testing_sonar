@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9a168daa-c51b-4650-81a8-e79c6a9552af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SonarCloudSpike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SonarCloudSpike/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.codebase/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/Class1.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spike.tests2/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/UnitTest1.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,9 +22,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spike.codebase/Class1.cs" />
         <option value="$PROJECT_DIR$/spike.tests/UnitTest1.cs" />
         <option value="$PROJECT_DIR$/spike.tests2/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/spike.codebase/Class1.cs" />
       </list>
     </option>
   </component>
@@ -56,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574711591567</updated>
-      <workItem from="1574711592894" duration="2496000" />
+      <workItem from="1574711592894" duration="2692000" />
     </task>
     <servers />
   </component>
