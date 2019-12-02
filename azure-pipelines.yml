@@ -40,7 +40,7 @@ steps:
 
 - task: Bash@3
   inputs:
-    filePath: '$(System.DefaultWorkingDirectory)/spike.tests2/UTScript.sh'
+    filePath: 'spike.tests2/UTScript.sh'
 
 - task: SonarCloudAnalyze@1
 
