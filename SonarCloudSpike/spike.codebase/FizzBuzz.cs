@@ -1,10 +1,8 @@
-﻿using System;
-
-namespace spike.codebase
+﻿namespace spike.codebase
 {
     public class FizzBuzz
     {
-        public string doFizzBuzz(int input)
+        public static string doFizzBuzz(int input)
         {
             if (input == 3)
             {
