@@ -38,13 +38,13 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: DotNetCoreCLI@2
+- task: Bash@3
   inputs:
-    command: 'test'
-    projects: './SonarCloudSpike'
+    filePath: './spike.tests2/UTScript.sh'
 
 - task: SonarCloudAnalyze@1
 
 - task: SonarCloudPublish@1
   inputs:
     pollingTimeoutSec: '300'
+
