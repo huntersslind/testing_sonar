@@ -6,25 +6,9 @@ namespace spike.codebase
     {
         public string doFizzBuzz(int input)
         {
-            if (input == 0)
-            {
-                return "0";
-            }
-            else if (input == 1)
-            {
-                return "1";
-            }
-            else if (input == 2)
-            {
-                return "2";
-            }
-            else if (input == 3)
+            if (input == 3)
             {
                 return "Fizz";
-            }
-            else if (input == 4)
-            {
-                return "4";
             }
             else if (input == 5)
             {
@@ -32,7 +16,7 @@ namespace spike.codebase
             }
             else
             {
-                return "7";
+                return input.ToString();
             }
             //complex
         }
