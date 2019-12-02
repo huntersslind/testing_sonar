@@ -92,3 +92,5 @@
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csproj.CopyComplete
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.dll
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.pdb
+/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/bin/Debug/netcoreapp3.0/spike.codebase.dll
+/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/bin/Debug/netcoreapp3.0/spike.codebase.pdb

@@ -3,6 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="9a168daa-c51b-4650-81a8-e79c6a9552af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SonarCloudSpike/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SonarCloudSpike/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.codebase/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/Class1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.codebase/bin/Debug/netcoreapp3.0/spike.codebase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/bin/Debug/netcoreapp3.0/spike.codebase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.codebase/bin/Debug/netcoreapp3.0/spike.codebase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/bin/Debug/netcoreapp3.0/spike.codebase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/bin/Debug/netcoreapp3.0/spike.tests2.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/bin/Debug/netcoreapp3.0/spike.tests2.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/bin/Debug/netcoreapp3.0/spike.tests2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/bin/Debug/netcoreapp3.0/spike.tests2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/bin/Debug/netcoreapp3.0/spike.tests2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/bin/Debug/netcoreapp3.0/spike.tests2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/spike.tests2.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/spike.tests2.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/spike.tests2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/spike.tests2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spike.tests2/spike.tests2.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/spike.tests2.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574711591567</updated>
       <workItem from="1574711592894" duration="3116000" />
-      <workItem from="1575313790380" duration="378000" />
+      <workItem from="1575313790380" duration="1176000" />
     </task>
     <servers />
   </component>

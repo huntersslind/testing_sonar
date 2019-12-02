@@ -2,9 +2,9 @@
 
 namespace spike.codebase
 {
-    public class Class1
+    public class FizzBuzz
     {
-        public string fizz(int input)
+        public string doFizzBuzz(int input)
         {
             if (input == 0)
             {
@@ -20,7 +20,7 @@ namespace spike.codebase
             }
             else if (input == 3)
             {
-                return "fizz";
+                return "Fizz";
             }
             else if (input == 4)
             {
@@ -28,11 +28,7 @@ namespace spike.codebase
             }
             else if (input == 5)
             {
-                return "buzz";
-            }
-            else if (input == 6)
-            {
-                return "6";
+                return "Buzz";
             }
             else
             {

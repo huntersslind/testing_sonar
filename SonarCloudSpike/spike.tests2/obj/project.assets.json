@@ -1962,6 +1962,16 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "spike.codebase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/spike.codebase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/spike.codebase.dll": {}
+        }
       }
     }
   },
@@ -6569,12 +6579,18 @@
         "xunit.runner.visualstudio.2.4.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "spike.codebase/1.0.0": {
+      "type": "project",
+      "path": "../spike.codebase/spike.codebase.csproj",
+      "msbuildProject": "../spike.codebase/spike.codebase.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "Microsoft.NET.Test.Sdk >= 16.2.0",
       "coverlet.collector >= 1.0.1",
+      "spike.codebase >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -6602,7 +6618,11 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/spike.codebase.csproj": {
+              "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/spike.codebase.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -24,6 +24,7 @@
       </e>
       <e p="spike.tests2" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="FizzBuzzTests.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -32,7 +33,6 @@
           </e>
         </e>
         <e p="spike.tests2.csproj" t="IncludeRecursive" />
-        <e p="UnitTest1.cs" t="Include" />
       </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2019.2/extResources" t="IncludeRecursive" />

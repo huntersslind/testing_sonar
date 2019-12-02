@@ -14,7 +14,11 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/spike.codebase.csproj": {
+            "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/spike.codebase.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
