@@ -1,104 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a168daa-c51b-4650-81a8-e79c6a9552af" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spike.tests2/UTScript.sh" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/UTScript.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Microsoft.TestPlatform.CommunicationUtilities.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Microsoft.TestPlatform.CrossPlatEngine.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Microsoft.TestPlatform.Utilities.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Microsoft.VisualStudio.CodeCoverage.Shim.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Microsoft.VisualStudio.TestPlatform.Common.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/Newtonsoft.Json.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/System.Xml.XPath.XmlDocument.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/de/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/es/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/it/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/spike.codebase.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/spike.codebase.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/spike.codebase.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/spike.tests2.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/spike.tests2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/spike.tests2.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/spike.tests2.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/spike.tests2.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/testhost.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/xunit.abstractions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/xunit.assert.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/xunit.core.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/xunit.execution.dotnet.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/xunit.runner.reporters.netcoreapp10.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/xunit.runner.utility.netcoreapp10.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/xunit.runner.visualstudio.dotnetcore.testadapter.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testing.json/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll" beforeDir="false" />
-    </list>
+    <list default="true" id="9a168daa-c51b-4650-81a8-e79c6a9552af" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574711591567</updated>
       <workItem from="1574711592894" duration="3116000" />
-      <workItem from="1575313790380" duration="9380000" />
+      <workItem from="1575313790380" duration="9609000" />
     </task>
     <servers />
   </component>

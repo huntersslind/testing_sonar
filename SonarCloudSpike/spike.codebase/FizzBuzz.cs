@@ -1,6 +1,6 @@
 ﻿namespace spike.codebase
 {
-    public class FizzBuzz
+    public static class FizzBuzz
     {
         public static string doFizzBuzz(int input)
         {
