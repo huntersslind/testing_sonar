@@ -34,7 +34,7 @@
         </e>
         <e p="spike.tests2.csproj" t="IncludeRecursive" />
         <e p="TestResults" t="Include">
-          <e p="results.trx" t="Include" />
+          <e p="results.xml" t="Include" />
         </e>
         <e p="UTScript.sh" t="Include" />
       </e>
