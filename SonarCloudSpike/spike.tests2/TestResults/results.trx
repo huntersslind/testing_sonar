@@ -2,9 +2,9 @@
 <CoverageSession>
   <Summary numSequencePoints="10" visitedSequencePoints="10" numBranchPoints="4" visitedBranchPoints="4" sequenceCoverage="100" branchCoverage="100" maxCyclomaticComplexity="4" minCyclomaticComplexity="4" visitedClasses="1" numClasses="1" visitedMethods="1" numMethods="1" />
   <Modules>
-    <Module hash="6755F5F5-70F8-439D-94B7-150032444914">
+    <Module hash="A4E6C4AF-04CF-4048-8266-5C4F30E47290">
       <ModulePath>spike.codebase.dll</ModulePath>
-      <ModuleTime>2019-12-03T05:08:39</ModuleTime>
+      <ModuleTime>2019-12-03T05:11:36</ModuleTime>
       <ModuleName>spike.codebase</ModuleName>
       <Files>
         <File uid="1" fullPath="/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/FizzBuzz.cs" />
