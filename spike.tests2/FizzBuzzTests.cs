@@ -30,6 +30,12 @@ namespace spike.tests2
         }
 
         [Fact]
+        public void WhenGivenThreeReturnsFizz()
+        {
+            Assert.Equal("Fizz", FizzBuzz.doFizzBuzz(3));
+        }
+
+        [Fact]
         public void WhenGivenFiveReturnsBuzz()
         {
             Assert.Equal("Buzz", FizzBuzz.doFizzBuzz(5));
