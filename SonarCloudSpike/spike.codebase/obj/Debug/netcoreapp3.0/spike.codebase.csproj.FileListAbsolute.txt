@@ -1,3 +1,6 @@
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.codebase.deps.json
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.codebase.dll
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.codebase.pdb
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/bin/Debug/netcoreapp3.0/spike.codebase.deps.json
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/bin/Debug/netcoreapp3.0/spike.codebase.dll
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/bin/Debug/netcoreapp3.0/spike.codebase.pdb
@@ -6,6 +9,3 @@
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.AssemblyInfo.cs
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.dll
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/obj/Debug/netcoreapp3.0/spike.codebase.pdb
-/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.codebase.deps.json
-/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.codebase.dll
-/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.codebase.pdb
