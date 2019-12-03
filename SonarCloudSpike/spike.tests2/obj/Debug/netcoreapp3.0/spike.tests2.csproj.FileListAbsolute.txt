@@ -94,3 +94,11 @@
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/obj/Debug/netcoreapp3.0/spike.tests2.pdb
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/bin/Debug/netcoreapp3.0/spike.codebase.dll
 /Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/bin/Debug/netcoreapp3.0/spike.codebase.pdb
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/xunit.runner.reporters.netcoreapp10.dll
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/xunit.runner.utility.netcoreapp10.dll
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.tests2.deps.json
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.tests2.runtimeconfig.json
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.tests2.runtimeconfig.dev.json
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.tests2.dll
+/Users/hunter.s.lind/Documents/testing_sonar/testing.json/spike.tests2.pdb
