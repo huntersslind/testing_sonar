@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/spike.tests2.csproj",
+    "projectUniqueName": "/Users/hunter.s.lind/Documents/testing_sonar/spike.tests2/spike.tests2.csproj",
     "projectName": "spike.tests2",
-    "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/spike.tests2.csproj",
-    "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.tests2/obj/",
+    "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/spike.tests2/spike.tests2.csproj",
+    "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/spike.tests2/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/spike.codebase.csproj": {
-            "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/spike.codebase.csproj"
+          "/Users/hunter.s.lind/Documents/testing_sonar/spike.codebase/spike.codebase.csproj": {
+            "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/spike.codebase/spike.codebase.csproj"
           }
         }
       }

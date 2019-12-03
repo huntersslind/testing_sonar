@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/spike.codebase.csproj",
+    "projectUniqueName": "/Users/hunter.s.lind/Documents/testing_sonar/spike.codebase/spike.codebase.csproj",
     "projectName": "spike.codebase",
-    "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/spike.codebase.csproj",
-    "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/SonarCloudSpike/spike.codebase/obj/",
+    "projectPath": "/Users/hunter.s.lind/Documents/testing_sonar/spike.codebase/spike.codebase.csproj",
+    "outputPath": "/Users/hunter.s.lind/Documents/testing_sonar/spike.codebase/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
