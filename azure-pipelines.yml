@@ -29,6 +29,11 @@ steps:
     scannerMode: 'MSBuild'
     projectKey: 'sonar.test'
     projectName: 'sonar test'
+    extraProperties: |
+      sonar.exclusions=**/obj/**,**/*.dll
+      sonar.branch.name=$(Build.SourceBranchName)
+      sonar.cs.opencover.reportsPaths=$(Build.SourcesDirectory)/**/coverage.opencover.xml
+      sonar.cs.vstest.reportsPaths=$(Agent.TempDirectory)/*.trx
 
 - task: VSBuild@1
   displayName: 'DotNet - Build'
@@ -41,6 +46,26 @@ steps:
 - task: Bash@3
   inputs:
     filePath: './spike.tests2/UTScript.sh'
+
+- task: DotNetCoreCLI@2
+  displayName: Run Tests
+  inputs:
+    command: test
+    arguments: '/p:CollectCoverage=true /p:CoverletOutputFormat=opencover --logger trx'
+    projects: '**/*ests2.csproj'
+    nobuild: true
+
+- script: |
+    dotnet tool install -g dotnet-reportgenerator-globaltool
+    reportgenerator "-reports:$(Build.SourcesDirectory)/**/coverage.opencover.xml" "-targetdir:$(Build.SourcesDirectory)/CodeCoverage" "-reporttypes:HtmlInline_AzurePipelines;Cobertura"
+  displayName: Create Code Coverage Report
+  
+- task: PublishCodeCoverageResults@1
+  displayName: 'Publish Code Coverage'
+  inputs:
+    codeCoverageTool: Cobertura
+    summaryFileLocation: '$(Build.SourcesDirectory)/CodeCoverage/Cobertura.xml'
+    reportDirectory: '$(Build.SourcesDirectory)/CodeCoverage'
 
 - task: SonarCloudAnalyze@1
 
