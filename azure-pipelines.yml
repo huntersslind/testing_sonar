@@ -52,7 +52,7 @@ steps:
   inputs:
     command: test
     arguments: '/p:CollectCoverage=true /p:CoverletOutputFormat=opencover --logger trx'
-    projects: '**/*Tests.csproj'
+    projects: '**/*ests2.csproj'
     nobuild: true
 
 - script: |
