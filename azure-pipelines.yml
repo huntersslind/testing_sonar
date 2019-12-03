@@ -37,12 +37,10 @@ steps:
     msbuildArgs: '/p:DeployOnBuild=true /p:WebPublishMethod=Package /p:PackageAsSingleFile=true /p:SkipInvalidConfigurations=true /p:DesktopBuildPackageLocation="$(build.artifactStagingDirectory)\WebApp.zip" /p:DeployIisAppPath="Default Web Site"'
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+    
 - task: Bash@3
   inputs:
     filePath: './SonarCloudSpike/spike.tests2/UTScript.sh'
-- task: Bash@3
-  inputs:
-    filePath: 'SonarCloudSpike/spike.tests2/UTScript.sh'
 
 - task: SonarCloudAnalyze@1
 
